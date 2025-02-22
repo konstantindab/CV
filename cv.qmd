@@ -1,0 +1,100 @@
+---
+title: "Curriculum Vitae"
+date-modified: today
+subtitle: |
+  Konstantin Böhm<br>  
+  <a href="mailto:koni.boehm@gmail.com"><i class="bi bi-envelope"></i></a> | 
+  <a href="tel:+447578932359"><i class="bi bi-telephone"></i></a>
+
+format:
+  html:
+    toc: true
+    toc-title: "Contents"
+    toc-expand: true
+    toc-depth: 4
+    theme: flatly
+    css: cv.css
+    embed-resources: true
+    other-links:
+      - icon: linkedin
+        text: "LinkedIn"
+        href: "https://www.linkedin.com/in/konstantindb/"
+      - icon: github
+        text: "GitHub"
+        href: "https://github.com/konstantindab"
+---
+
+
+---
+## Education
+
+**Primary school** <br> *“Grundschule Zedernstraße” Fürth/Vach* [*Sep 2006 --- Jul 2010*]{.cvdate}
+
+**Secondary High School -- Abitur** <br> *Helene-Lange-Gymnasium Fürth* [*Sep 2011 --- Jul 2018*]{.cvdate}
+
+**Bachelor of Science (Honours) -- Psychology** <br> *Queen Margaret University, Edinburgh* [*Sep 2020 --- Jul 2024*]{.cvdate}
+
+**Master of Science -- Brain Sciences** <br> *University of Glasgow* [*Sep 2024 --- Present*]{.cvdate}
+
+## Internships
+
+**Intern at Radio station -- “Hit Radio N1”**<br> *Funkhaus Nürnberg* [*Jul 2015*]{.cvdate}
+
+**Research assistant -- Careena Center for Health**<br> *Gaborone, Botswana* [*Jul 2023 --- Aug 2023*]{.cvdate}
+
+## Volunteer activities
+
+**Volunteer -- Congregation of St. Matthews Church**<br> *Fürth/Vach* [*Oct 2015 --- Feb 2016*]{.cvdate}
+
+**Taekwon-Do Coach for children and adults**<br> *Taekwon-Do Vach* [*Jan 2016 --- Sep 2020*]{.cvdate}
+
+**German voluntary service “weltwärts” -- Eine Welt Netz NRW**<br> *Stepping Stones International in Mochudi, Botswana* [*Aug 2018 --- Aug 2019*]{.cvdate}
+
+**Co-founder and Vice president -- QMU Running and Cycling**<br> *Queen Margaret University, Edinburgh* [*Mar 2023 --- May 2024*]{.cvdate}
+
+**Student researcher -- Toy Box Diversity Lab**<br> *Queen Margaret University, Edinburgh* [*Sep 2023 --- Jul 2024*]{.cvdate}
+
+
+## Employment {style="page-break-before: always"}
+
+
+**Retail Assistant**<br> *E-Center EDEKA Schuler, Fürth* [*May 2017 -- Sep 2017*]{.cvdate}
+
+**Kitchen Porter -- Michelin star awarded restaurant**<br> *„L’impertinent“ Biarritz, France* -- Return to Germany due to Covid-19 [Mar 2020 -- Apr 2020]{.cvdate}
+
+**Logistics Assistant**<br>IKEA Germany, Fürth* [*Jul 2020 -- Sep 2020*]{.cvdate}
+
+**Administrative Assistant -- Covid-19 vaccination centre**<br> *Arbeitsgemeinschaft Notfallmedizin Fürth e. V.* [*Jun 2021 -- Aug 2021*]{.cvdate}
+
+**Games Master and Social Media Manager**<br>*Padlox Escape Rooms, Edinburgh* [*Nov 2021 -- Nov 2022*]{.cvdate}
+
+**Events Usher -- Open Days**<br> *Queen Margaret University, Edinburgh* [*Sep 2021 -- Oct 2023*]{.cvdate}
+
+**Games Master**<br> *Escape Reality Ltd., Scotland* [*Jan 2023 -- Present*]{.cvdate}
+
+
+### Knowledge and interests
+
+::: {layout-ncol=2}
+#### Hobbies
+- Taekwon-Do
+- Playing the Saxophone
+- Road cycling and running
+- Cooking 
+
+#### Languages
+- English, (B2+/C1), IELTS 7.0
+- French (B1+) 
+:::
+
+#### Strengths {.unlisted}
+- Physically and mentally resilient
+- Flexible, assertiveness, communication skills, critical thinking and intercultural competence
+- Awarded “Best Newcomer” Award QMU Running & Cycling 
+
+
+
+
+### References {.unlisted}
+Available upon request
+
