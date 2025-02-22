@@ -2,9 +2,9 @@
 title: "Curriculum Vitae"
 date-modified: today
 subtitle: |
-  Konstantin Böhm<br>  
-  <a href="mailto:koni.boehm@gmail.com"><i class="bi bi-envelope"></i></a> | 
-  <a href="tel:+447578932359"><i class="bi bi-telephone"></i></a>
+  INSERTNAME<br>  
+  <a href="mailto:INSERT@gmail.com"><i class="bi bi-envelope"></i></a> | 
+  <a href="tel:0123456789"><i class="bi bi-telephone"></i></a>
 
 format:
   html:
@@ -18,10 +18,12 @@ format:
     other-links:
       - icon: linkedin
         text: "LinkedIn"
-        href: "https://www.linkedin.com/in/konstantindb/"
+        href: "https://www.linkedin.com/"
       - icon: github
         text: "GitHub"
-        href: "https://github.com/konstantindab"
+        href: "https://github.com/"
+
+    code-links: repo
 ---
 
 
